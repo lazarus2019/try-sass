@@ -1,0 +1,8 @@
+@use 'colors' as clr;
+
+%typography {
+  color: clr.$clr-blue;
+  width: auto;
+  height: 20px;
+  background-color: var(--clr-green);
+}

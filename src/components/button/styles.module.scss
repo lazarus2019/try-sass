@@ -1,0 +1,10 @@
+@use 'styles/abstracts' as *;
+
+.button {
+  color: $clr-red;
+  font-size: 20px;
+}
+
+.paragraph {
+  @extend %typography;
+}
